@@ -36,7 +36,7 @@
 |Maja|Czekała|https://Maja03.github.io|How does Digital Technology affect Sports|Digital Health in Sports|athletes, physiotherapists, people working in the sport field, people intrested in sport|
 |Bilge|Deliceo|https://github.com/bilgedeliceo/bobs.git||||
 |Obo Effiong|Ekanem|||||
-|Noura|Eltahawi|https://nou-ra1981.github.io/Blog-Post/||||
+|Noura|Eltahawi|https://nou-ra1981.github.io/Blog-Post/|Artificial Intelligance in Healthcare|Artificial Intelligence and Medical practitioners hand in hand|Doctors and Health Organizations|
 |B M Muntasir|Fahim|https://muntasirfahim.github.io/|mHealth|The Role of mHealth in Improving Healthcare Outcomes|General Public, Health Professionals and associates, Users of Social Media, Software Engineers|
 |Karim|Haidar|https://karim-haidar.github.io/22W/|Helping Visually Impaired With AI|Empowering the Visually Impaired With AI|Visually Impaired|
 |Md Sayed|Hossen|||||
